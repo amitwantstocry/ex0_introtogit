@@ -1,5 +1,5 @@
-Favorite color: green
-Favorite food: ice cream <3
+Favorite color: purple
+Favorite food: soup
 Favorite musician/band: starkid
 Favorite movie: twisted: the untold story of the royal vazir
-Requested grade in the course: 200
+Requested grade in the course: ++
